@@ -12,6 +12,8 @@
   "dependencies": {
     "@types/node": "^22.4.1",
     "@types/readline-sync": "^1.4.8",
+    "nsync": "^0.0.3",
+    "readline": "^1.3.0",
     "readline-sync": "^1.4.10",
     "tsup": "^8.2.4",
     "tsx": "^4.17.0",
